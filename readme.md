@@ -1,4 +1,4 @@
-# Idea behind DS_Hulk
+# Idea behind ds-hulk
 
 This repository contains the code and problem solutions to many python problems. It also includes numpy and matplotlob exercises. 
 
