@@ -1,4 +1,4 @@
-# Idea behind practice-ds
+# Idea behind DS_Hulk
 
 This repository contains the code and problem solutions to many python problems. It also includes numpy and matplotlob exercises. 
 
