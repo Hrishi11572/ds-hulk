@@ -30,3 +30,13 @@ keys = ["alice", "bob", "mizzi"]
 new_dict = dict.fromkeys(keys, 1)
 
 print(new_dict) # {'alice': 1, 'bob': 1, 'mizzi': 1}
+
+
+'''
+setdefault() Method
+Inserts a key with a default value if the key does not exist.
+'''
+
+print(student_marks.setdefault("alice", 45)) # returns 19 
+print(student_marks.setdefault("David", 20)) # returns 20 
+print(student_marks) # david got added to the dictionary
